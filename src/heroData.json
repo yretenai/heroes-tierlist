@@ -1,0 +1,1441 @@
+[{
+        "id": 90,
+        "name": "Hogger",
+        "title": "Scourge of Elwynn",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/hogger/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/hogger-f85e0ca58d.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 89,
+        "name": "Mei",
+        "title": "Adventuring Climatologist",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/mei/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/mei-948726a5cc.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 88,
+        "name": "Deathwing",
+        "title": "The Destroyer",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/deathwing/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/deathwing-b007b23426.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 87,
+        "name": "Qhira",
+        "title": "Realmless Bounty Hunter",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/qhira/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/qhira-626a5d3b1f.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 3
+    },
+    {
+        "id": 86,
+        "name": "Anduin",
+        "title": "King of Stormwind",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/anduin/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/anduin-ea001794c6.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 85,
+        "name": "Imperius",
+        "title": "Archangel of Valor",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/imperius/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/imperius-4f2753bb56.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 84,
+        "name": "Orphea",
+        "title": "Heir of Raven Court",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/orphea/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/orphea-72dc6033c1.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 83,
+        "name": "Mal'Ganis",
+        "title": "Nathrezim Lord",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/malganis/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/malganis-a1ac224160.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 82,
+        "name": "Mephisto",
+        "title": "Lord of Hatred",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/mephisto/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/mephisto-158e980962.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 81,
+        "name": "Whitemane",
+        "title": "High Inquisitor",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/whitemane/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/whitemane-b7bcb3abe1.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 80,
+        "name": "Yrel",
+        "title": "Light of Hope",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/yrel/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/yrel-70eefe5af8.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 79,
+        "name": "Deckard",
+        "title": "The Last Horadrim",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/deckard/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/deckard-d538088dae.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 78,
+        "name": "Fenix",
+        "title": "Steward of the Templar",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/fenix/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/fenix-1d9f70b7bc.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 77,
+        "name": "Maiev",
+        "title": "The Warden",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/maiev/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/maiev-0003d0d5e9.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 3
+    },
+    {
+        "id": 76,
+        "name": "Blaze",
+        "title": "Veteran Firebat",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/blaze/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/blaze-eb95f9f40a.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 75,
+        "name": "Hanzo",
+        "title": "Master Assassin",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/hanzo/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/hanzo-49aba4dac5.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 74,
+        "name": "Alexstrasza",
+        "title": "The Life-Binder",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/alexstrasza/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/alexstrasza-727f5dc5c7.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 73,
+        "name": "Junkrat",
+        "title": "Junker Demolitionist",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/junkrat/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/junkrat-3506935224.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 72,
+        "name": "Ana",
+        "title": "Veteran Sniper",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/ana/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/ana-a6ab96c996.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 71,
+        "name": "Kel'Thuzad",
+        "title": "Archlich of Naxxramas",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/kelthuzad/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/kelthuzad-e536b7c968.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 70,
+        "name": "Garrosh",
+        "title": "Son of Hellscream",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/garrosh/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/garrosh-32151ef6d8.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 69,
+        "name": "Stukov",
+        "title": "Infested Admiral",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/stukov/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/stukov-bc1e5bb57e.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 68,
+        "name": "Malthael",
+        "title": "Aspect of Death",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/malthael/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/malthael-024c03fa4f.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 67,
+        "name": "D.Va",
+        "title": "MEKA Pilot",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/dva/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/dva-6a8b119c88.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 66,
+        "name": "Genji",
+        "title": "Cybernetic Ninja",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/genji/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/genji-4853f3df7d.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 65,
+        "name": "Cassia",
+        "title": "Amazon Warmatron",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/cassia/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/cassia-938ed4d346.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 64,
+        "name": "Probius",
+        "title": "Curious Probe",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/probius/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/probius-259ad8b059.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 63,
+        "name": "Lúcio",
+        "title": "Freedom Fighting DJ",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/lucio/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/lucio-7a47cc9abb.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 62,
+        "name": "Valeera",
+        "title": "Shadow of the Uncrowned",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/valeera/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/valeera-5eb1dd7aee.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 3
+    },
+    {
+        "id": 61,
+        "name": "Zul'jin",
+        "title": "Warlord of the Amani",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/zuljin/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/zuljin-6c7eec9c67.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 60,
+        "name": "Ragnaros",
+        "title": "The Firelord",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/ragnaros/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/ragnaros-6c0e9c188d.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 59,
+        "name": "Varian",
+        "title": "High King of the Alliance",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/varian/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/varian-cd9ae04382.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 58,
+        "name": "Samuro",
+        "title": "The Blademaster",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/samuro/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/samuro-2c7535badb.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 3
+    },
+    {
+        "id": 57,
+        "name": "Zarya",
+        "title": "Defender of Russia",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/zarya/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/zarya-e8b915f0ff.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 5
+    },
+    {
+        "id": 56,
+        "name": "Alarak",
+        "title": "Highlord of the Tal'darim",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/alarak/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/alarak-6fb1c7b426.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 3
+    },
+    {
+        "id": 55,
+        "name": "Auriel",
+        "title": "Archangel of Hope",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/auriel/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/auriel-5faf424108.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 54,
+        "name": "Gul'dan",
+        "title": "Darkness Incarnate",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/guldan/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/guldan-07fc0ababf.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 53,
+        "name": "Medivh",
+        "title": "The Last Guardian",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/medivh/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/medivh-9833fe06f2.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 5
+    },
+    {
+        "id": 52,
+        "name": "Chromie",
+        "title": "Keeper of Time",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/chromie/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/chromie-b7015a805b.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 51,
+        "name": "Tracer",
+        "title": "Agent of Overwatch",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/tracer/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/tracer-912d842029.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 50,
+        "name": "Dehaka",
+        "title": "Primal Pack Leader",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/dehaka/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/dehaka-fbd5db499f.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 49,
+        "name": "Xul",
+        "title": "Cryptic Necromancer",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/xul/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/xul-770942d87d.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 48,
+        "name": "Li-Ming",
+        "title": "Rebellious Wizard",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/li-ming/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/li-ming-b201a30db4.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 47,
+        "name": "Greymane",
+        "title": "Lord of the Worgen",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/greymane/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/greymane-6a60860d1b.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 46,
+        "name": "Lunara",
+        "title": "First Daughter of Cenarius",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/lunara/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/lunara-27ada58fa6.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 45,
+        "name": "Cho",
+        "title": "Twilight's Hammer Chieftain",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/cho/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/cho-149c8bca12.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 44,
+        "name": "Gall",
+        "title": "Twilight's Hammer Chieftain",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/gall/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/gall-149c8bca12.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 43,
+        "name": "Artanis",
+        "title": "Hierarch of the Daelaam",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/artanis/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/artanis-8eadd2012d.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 42,
+        "name": "Lt. Morales",
+        "title": "Combat Medic",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/lt-morales/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/lt-morales-9e661f1cb4.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 41,
+        "name": "Rexxar",
+        "title": "Champion of the Horde",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/rexxar/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/rexxar-179d4bd71e.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 40,
+        "name": "Kharazim",
+        "title": "Veradani Monk",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/kharazim/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/kharazim-5093da80ab.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 39,
+        "name": "Leoric",
+        "title": "The Skeleton King",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/leoric/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/leoric-03bacce460.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 38,
+        "name": "The Butcher",
+        "title": "Flesh Carver",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/the-butcher/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/the-butcher-8871174db0.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 3
+    },
+    {
+        "id": 37,
+        "name": "Johanna",
+        "title": "Crusader of Zakarum",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/johanna/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/johanna-17b7092e6a.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 36,
+        "name": "Kael'thas",
+        "title": "The Sun King",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/kaelthas/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/kaelthas-b9d9a52bb8.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 35,
+        "name": "Sylvanas",
+        "title": "The Banshee Queen",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/sylvanas/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/sylvanas-9a0cf3b84f.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 34,
+        "name": "The Lost Vikings",
+        "title": "Triple Trouble",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/the-lost-vikings/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/the-lost-vikings-0d5640dfde.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 5
+    },
+    {
+        "id": 33,
+        "name": "Thrall",
+        "title": "Warchief of the Horde",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/thrall/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/thrall-00c3d15512.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 32,
+        "name": "Jaina",
+        "title": "Archmage",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/jaina/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/jaina-7bc66f174a.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 31,
+        "name": "Azmodan",
+        "title": "Lord of Sin",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/azmodan/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/azmodan-7cb228362a.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 30,
+        "name": "Anub'arak",
+        "title": "Traitor King",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/anubarak/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/anubarak-76023af959.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 29,
+        "name": "Chen",
+        "title": "Legendary Brewmaster",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/chen/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/chen-2d16ccc6d4.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 28,
+        "name": "Rehgar",
+        "title": "Shaman of the Earthen Ring",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/rehgar/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/rehgar-b00d8aa125.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 27,
+        "name": "Zagara",
+        "title": "Broodmother of the Swarm",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/zagara/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/zagara-f7c99db679.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 26,
+        "name": "Murky",
+        "title": "Baby Murloc",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/murky/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/murky-91faede47b.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 3
+    },
+    {
+        "id": 25,
+        "name": "Brightwing",
+        "title": "Faerie Dragon",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/brightwing/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/brightwing-b6b65da4f8.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 24,
+        "name": "Li Li",
+        "title": "World Wanderer",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/li-li/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/li-li-bd1dd74d93.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 23,
+        "name": "Tychus",
+        "title": "Notorious Outlaw",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/tychus/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/tychus-c21cafbe45.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 22,
+        "name": "Abathur",
+        "title": "Evolution Master",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/abathur/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/abathur-d1205378ac.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 5
+    },
+    {
+        "id": 21,
+        "name": "Arthas",
+        "title": "The Lich King",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/arthas/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/arthas-8664159a5e.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 20,
+        "name": "Diablo",
+        "title": "Lord of Terror",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/diablo/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/diablo-e4f962fbd5.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 19,
+        "name": "Illidan",
+        "title": "The Betrayer",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/illidan/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/illidan-44e4e09a1c.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 3
+    },
+    {
+        "id": 18,
+        "name": "Kerrigan",
+        "title": "Queen of Blades",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/kerrigan/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/kerrigan-210d55d431.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 3
+    },
+    {
+        "id": 17,
+        "name": "Malfurion",
+        "title": "Archdruid",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/malfurion/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/malfurion-67364cde03.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 16,
+        "name": "Muradin",
+        "title": "Mountain King",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/muradin/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/muradin-d1003a8b30.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 15,
+        "name": "Nazeebo",
+        "title": "Heretic Witch Doctor",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/nazeebo/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/nazeebo-075bcb780b.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 14,
+        "name": "Nova",
+        "title": "Dominion Ghost",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/nova/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/nova-c13237db26.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 13,
+        "name": "Raynor",
+        "title": "Renegade Commander",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/raynor/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/raynor-55d8b2981e.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 12,
+        "name": "Sgt. Hammer",
+        "title": "Siege Tank Operator",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/sgt-hammer/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/sgt-hammer-ad3562faf6.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 11,
+        "name": "Sonya",
+        "title": "Wandering Barbarian",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/sonya/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/sonya-b926d6b869.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 10,
+        "name": "Tyrael",
+        "title": "Archangel of Justice",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/tyrael/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/tyrael-7a403ebc84.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 9,
+        "name": "Tyrande",
+        "title": "High Priestess of Elune",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/tyrande/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/tyrande-6aaebe58de.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 8,
+        "name": "Uther",
+        "title": "The Lightbringer",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/uther/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/uther-7a696bccc7.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 4
+    },
+    {
+        "id": 7,
+        "name": "Valla",
+        "title": "Demon Hunter",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/valla/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/valla-1f7aba3e76.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 6,
+        "name": "Zeratul",
+        "title": "Dark Prelate",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/zeratul/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/zeratul-2bd326e313.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 3
+    },
+    {
+        "id": 5,
+        "name": "E.T.C.",
+        "title": "Rock God",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/etc/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/etc-8dda57bbf5.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 4,
+        "name": "Falstad",
+        "title": "Wildhammer Thane",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/falstad/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/falstad-82ad6da7f7.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    },
+    {
+        "id": 3,
+        "name": "Gazlowe",
+        "title": "Boss of Ratchet",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/gazlowe/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/gazlowe-de07e3f5cd.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 1
+    },
+    {
+        "id": 2,
+        "name": "Stitches",
+        "title": "Terror of Darkshire",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/stitches/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/stitches-6ed3ea85db.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 0
+    },
+    {
+        "id": 1,
+        "name": "Tassadar",
+        "title": "Savior of the Templar",
+        "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/tassadar/circleIcon.png",
+        "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/tassadar-5c1079ec67.jpg",
+        "cardFlip": false,
+        "search": "",
+        "masked": false,
+        "tier": -1,
+        "cardOffset": {
+            "x": 0,
+            "y": 0
+        },
+        "role": 2
+    }
+]
