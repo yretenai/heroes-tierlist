@@ -217,7 +217,7 @@
 		background: #0e001a;
 		border-left: 1px solid #143d66;
 		border-right: 1px solid #143d66;
-		background: url(/img/bg.jpg) top center no-repeat #000d1a;
+		background: url(./img/bg.jpg) top center no-repeat #000d1a;
 		max-width: 2400px;
 		min-height: 100%;
 	}
@@ -229,7 +229,7 @@
 		align-content: stretch;
 		gap: 10px;
 		height: 150px;
-		background: url("/img/bggradient.png") repeat-x;
+		background: url(./img/bggradient.png) repeat-x;
 	}
 
 	nav h1 {
