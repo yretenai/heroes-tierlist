@@ -212,7 +212,6 @@
 <style>
 	main {
 		margin: 0 auto;
-		padding: 0 50px;
 		position: relative;
 		background: #0e001a;
 		border-left: 1px solid #143d66;
@@ -220,6 +219,11 @@
 		background: url(./img/bg.jpg) top center no-repeat #000d1a;
 		max-width: 2400px;
 		min-height: 100%;
+	}
+
+	nav,
+	.tierlist {
+		padding: 0 50px;
 	}
 
 	nav {
@@ -312,7 +316,8 @@
 	}
 
 	@media (max-width: 1000px) {
-		main {
+		nav,
+		.tierlist {
 			padding: 0 5px;
 		}
 
