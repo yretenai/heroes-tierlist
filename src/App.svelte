@@ -18,10 +18,10 @@
 	let roleFilter: number = -1;
 
 	let tiers: Tier[] = [
-		{ label: "SSS", color: "purple", id: 6, altTier: 3 },
+		{ label: "SSS", color: "purple", id: 6, altTier: undefined },
 		{ label: "S", color: "purple", id: 5, altTier: undefined },
 		{ label: "A", color: "purple", id: 4, altTier: undefined },
-		{ label: "B", color: "purple", id: 3, altTier: undefined },
+		{ label: "B", color: "purple", id: 3, altTier: 6 },
 		{ label: "C", color: "purple", id: 2, altTier: undefined },
 		{ label: "D", color: "purple", id: 1, altTier: undefined },
 		{ label: "F", color: "purple", id: 0, altTier: undefined },
