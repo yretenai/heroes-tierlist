@@ -18,14 +18,13 @@
 	let roleFilter: number = -1;
 
 	let tiers: Tier[] = [
-		{ label: "SSS", color: "purple", id: 6, altTier: undefined },
-		{ label: "S", color: "purple", id: 5, altTier: undefined },
-		{ label: "A", color: "purple", id: 4, altTier: undefined },
-		{ label: "B", color: "purple", id: 3, altTier: 6 },
-		{ label: "C", color: "purple", id: 2, altTier: undefined },
-		{ label: "D", color: "purple", id: 1, altTier: undefined },
-		{ label: "F", color: "purple", id: 0, altTier: undefined },
-		{ label: "Unsorted", color: "purple", id: -1, altTier: undefined },
+		{ label: "S", color: "#b500a6", id: 5, altTier: undefined },
+		{ label: "A", color: "#0098a8", id: 4, altTier: undefined },
+		{ label: "B", color: "#5a9b2c", id: 3, altTier: undefined },
+		{ label: "C", color: "#978e00", id: 2, altTier: undefined },
+		{ label: "D", color: "#cc4a00", id: 1, altTier: undefined },
+		{ label: "F", color: "#e9003f", id: 0, altTier: undefined },
+		{ label: "Unsorted", color: "#222222", id: -1, altTier: undefined },
 	];
 
 	$: filteredHeroData = heroData.map((hero) => {
@@ -57,10 +56,10 @@
 		}
 
 		// WARN: If hero id ever goes over 255, this breaks. Right now it's at 90. I strongly doubt it'll ever go over that.
-		// version Byte + bucket counts + entries + isLocked
-		let array = new Uint8Array(1 + buckets.length + buckets.reduce((current, bucket) => current + bucket.length, 0) + 1);
+		// version Byte + bucket counts + entries + isLocked + isIcon
+		let array = new Uint8Array(buckets.length + buckets.reduce((current, bucket) => current + bucket.length, 0) + 2);
 		let byteIndex = 0;
-		array[byteIndex++] = 2;
+		array[byteIndex++] = 3;
 		for (let i = 0; i < buckets.length; ++i) {
 			array[byteIndex++] = buckets[i].length;
 
@@ -68,7 +67,17 @@
 				array[byteIndex++] = heroId;
 			}
 		}
-		array[byteIndex++] = locked ? 1 : 0;
+
+		var flags = 0;
+		if (locked) {
+			flags |= 1 << 0;
+		}
+
+		if (icon) {
+			flags |= 1 << 1;
+		}
+
+		array[byteIndex++] = flags;
 
 		location.hash = `#${btoa(String.fromCharCode.apply(null, array))}`;
 	}
@@ -100,8 +109,14 @@
 			}
 		}
 
+		var flags = array[byteIndex++];
+
 		if (version >= 2) {
-			locked = array[byteIndex++] == 1;
+			locked = (flags & 1) == 1;
+		}
+
+		if (version >= 3) {
+			icon = (flags & 2) == 2;
 		}
 
 		heroData = heroData.map((hero) => {
@@ -191,7 +206,7 @@
 		</div>
 		<div class="block toggles" style={mobile ? "display: none" : ""}>
 			<label>
-				<input type="checkbox" bind:checked={icon} />
+				<input type="checkbox" bind:checked={icon} on:change={encodeTiers} />
 				Use Icons
 			</label>
 			<label>

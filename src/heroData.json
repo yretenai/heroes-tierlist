@@ -4,13 +4,13 @@
         "title": "Scourge of Elwynn",
         "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/hogger/circleIcon.png",
         "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/hogger-f85e0ca58d.jpg",
-        "cardFlip": false,
+        "cardFlip": true,
         "search": "",
         "masked": false,
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -20
         },
         "role": 1
     },
@@ -36,13 +36,13 @@
         "title": "The Destroyer",
         "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/deathwing/circleIcon.png",
         "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/deathwing-b007b23426.jpg",
-        "cardFlip": false,
+        "cardFlip": true,
         "search": "",
         "masked": false,
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -24
         },
         "role": 1
     },
@@ -106,7 +106,7 @@
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -33
         },
         "role": 2
     },
@@ -138,7 +138,7 @@
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -32
         },
         "role": 2
     },
@@ -202,7 +202,7 @@
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -33
         },
         "role": 2
     },
@@ -420,13 +420,13 @@
         "title": "Curious Probe",
         "circleIcon": "https://static.heroesofthestorm.com/gd/6f704aac5aa2f1cfad17ee130347fb3b/heroes/probius/circleIcon.png",
         "cardPortrait": "https://static.heroesofthestorm.com/images/hero-select/card-portraits/probius-259ad8b059.jpg",
-        "cardFlip": false,
+        "cardFlip": true,
         "search": "",
         "masked": false,
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -56
         },
         "role": 2
     },
@@ -474,7 +474,7 @@
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -25
         },
         "role": 2
     },
@@ -650,7 +650,7 @@
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -25
         },
         "role": 1
     },
@@ -906,7 +906,7 @@
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -17
         },
         "role": 5
     },
@@ -970,7 +970,7 @@
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -28
         },
         "role": 0
     },
@@ -1050,7 +1050,7 @@
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -40
         },
         "role": 4
     },
@@ -1210,7 +1210,7 @@
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -33
         },
         "role": 2
     },
@@ -1386,7 +1386,7 @@
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -21
         },
         "role": 2
     },
@@ -1402,7 +1402,7 @@
         "tier": -1,
         "cardOffset": {
             "x": 0,
-            "y": 0
+            "y": -70
         },
         "role": 1
     },

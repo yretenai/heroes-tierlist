@@ -62,7 +62,9 @@
 </script>
 
 <div class="tier" style="--color: {tier.color}">
-    <div class="name">{tier.label}</div>
+    <div class="name">
+        <div class="stick">{tier.label}</div>
+    </div>
     <div class="list" on:drop={doDrop} on:dragover={allowDrop}>
         {#each heroData as hero (hero.id)}
             {#if icon}
@@ -87,19 +89,25 @@
         display: block;
         min-width: 150px;
         max-width: 150px;
-        line-height: 83px;
+        line-height: 102px;
         padding: 0 15px;
         text-align: right;
-        background: var(--color);
         opacity: 0.9;
-        box-shadow: -7px 0 13px rgba(0, 0, 0, 0.4);
-        border: 2px solid rgba(51, 153, 255, 0.4);
+        border-top: 5px solid var(--color);
+        border-right: 5px solid var(--color);
+        background: var(--color);
+    }
+
+    .tier .name .stick {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
     }
 
     .tier .list {
-        box-shadow: 7 0 13px rgba(0, 0, 0, 0.4);
-        border: 2px solid rgba(51, 153, 255, 0.4);
+        padding: 7px;
         width: 100%;
+        border-top: 5px solid var(--color);
     }
 
     @media (max-width: 1000px) {
@@ -116,6 +124,8 @@
             max-width: 75px;
             line-height: 70px;
             padding: 0 5px;
+            font-size: 24px;
+            text-align: center;
         }
     }
 </style>
