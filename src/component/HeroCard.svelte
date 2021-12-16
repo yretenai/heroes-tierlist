@@ -7,7 +7,7 @@
     }
 </script>
 
-<div draggable={!(locked === true || hero.masked === true)} class="card{hero.masked === true ? ' masked' : ''}{locked === true ? ' locked' : ''}{hero.cardFlip ? ' flip' : ''}" style="--bg: url({hero.cardPortrait}); --offsetX: {hero.cardOffset.x}px; --offsetY: {hero.cardOffset.y}px;" on:dragstart={mutateDrag}>
+<div draggable={!(locked === true || hero.masked === true)} class="card{hero.masked === true ? ' masked' : ''}{locked === true ? ' locked' : ''}{hero.cardFlip ? ' flip' : ''}" style="--bg: url(./img/card/{hero.slug}.jpg); --offsetX: {hero.cardOffset.x}px; --offsetY: {hero.cardOffset.y}px;" on:dragstart={mutateDrag}>
     <div class="image" />
     <div class="text">
         <h1>{hero.name}</h1>

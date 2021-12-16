@@ -7,7 +7,7 @@
     }
 </script>
 
-<div draggable={!(locked === true || hero.masked === true)} class="icon{hero.masked === true ? ' masked' : ''}{locked === true ? ' locked' : ''}" style="--icon: url({hero.circleIcon})" on:dragstart={mutateDrag}>
+<div draggable={!(locked === true || hero.masked === true)} class="icon{hero.masked === true ? ' masked' : ''}{locked === true ? ' locked' : ''}" style="--icon: url(./img/icon/{hero.slug}.png)" on:dragstart={mutateDrag}>
     <div class="image" />
 </div>
 
